@@ -8,3 +8,4 @@
 2. 直接在 typora 下载安装 picgo-core
 3. 自动生成配置命令 picgo set uploader 需要在 C:\Users\xxx\AppData\Roaming\Typora\picgo\win64 打开cmd 
 4. 手动配置也👌
+5. PicGo目前不支持github上传同名文件，会报错
