@@ -1,5 +1,5 @@
 
-### 需设置为 public，token 权限也要开放，具体要哪些权限尚未测试，先全勾了😏
+### 仓库需设置为 public，[token](https://github.com/settings/tokens) 权限也要开放，具体要哪些权限尚未测试，先全勾了😏
 ### 图片链接暴露 github id，谨慎使用
 
 ### [picgo-core 配置](https://picgo.github.io/PicGo-Core-Doc/zh/guide/config.html)
